@@ -1,6 +1,6 @@
 # Inital pose of the dock, usually map referenced
 # If the header is empty, or quaternion = (0 0 0 0), then
-#   the intial dock pose will be straight ahead of the robot
+#   the initial dock pose will be straight ahead of the robot
 geometry_msgs/PoseStamped dock_pose
 
 # We can optionally request that the docking node call on the
